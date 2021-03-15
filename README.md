@@ -8,7 +8,7 @@ This repository contains my answers for Bilkent University's Fundamental Structu
     - `Topics`: Pointers, dynamically allocated arrays, preventing memory leaks, object-oriented C++ programming
 
 - `Homework 2`: Analyzing Algorithm Efficiency
-    - `Topics`: Implementing two algorithms to merge two sorted arrays and analyzing their efficiency and run-time complexity
+    - `Topics`: Implementing two different algorithms to merge two sorted arrays and analyzing their efficiency and run-time complexity
 
 - `Homework 3`: Implementing a LibrarySystem Class
     - `Topics`: Singly linked lists, pointers, dynamically allocated arrays, object-oriented C++ programming, preventing memory leaks
